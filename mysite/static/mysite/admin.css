@@ -1,0 +1,18 @@
+<style type="">
+#header {
+        width: 100%;
+        background: #444444;
+        color: #ccc;
+        overflow: hidden;
+}
+
+h1 {
+        color: #444444;
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited {
+    color: #fff;
+}
+
+</style>
+
